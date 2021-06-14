@@ -7,15 +7,15 @@
 
 - 👯 I’m looking to collaborate on **Alexa, Machine Learning related projects using Java, Node.js and Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/osecen](https://github.com/osecen)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/osecen)
 
-- 📄 LinkedIn Profile [https://www.linkedin.com/in/onder-secen-5229783/](https://www.linkedin.com/in/onder-secen-5229783/)
+- 📄  [LinkedIn is here](https://www.linkedin.com/in/onder-secen-5229783/)
 
 - 💬 Ask me about **Java, Node.js, C++, CSS, REST API**
 
 - 📫 How to reach me **onder.secen@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1v9sKV0tx1ci8yXjhXLOGmbvLTtCt7py2QGtlEdJrbmk/edit?usp=sharing](https://docs.google.com/document/d/1v9sKV0tx1ci8yXjhXLOGmbvLTtCt7py2QGtlEdJrbmk/edit?usp=sharing)
+- 📄 Know about my experiences [in my resume](https://docs.google.com/document/d/1v9sKV0tx1ci8yXjhXLOGmbvLTtCt7py2QGtlEdJrbmk/edit?usp=sharing)
 
 - ⚡ Fun fact **I am a foster parent**
 
