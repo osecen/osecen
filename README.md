@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Onder Secen</h1>
+<h1 align="center">Onder Secen says  👋, </h1>
 <h3 align="center">A passionate Full-Stack developer in Java, Node.js</h3>
 
 - 🔭 I’m currently working on [creating more Alexa skills](https://github.com/osecen/alexa-Yallah-InspireMe-Node.js)
