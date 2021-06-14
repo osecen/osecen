@@ -1,5 +1,5 @@
 <h1 align="center">Onder Secen says  👋, </h1>
-<h3 align="center">A passionate Full-Stack developer in Java, Node.js</h3>
+<h3 align="center">A passionate Full-Stack developer in Java, Node.js, Python</h3>
 
 - 🔭 I’m currently working on [creating more Alexa skills](https://github.com/osecen/alexa-Yallah-InspireMe-Node.js)
 
