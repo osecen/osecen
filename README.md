@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [in my resume](https://docs.google.com/document/d/1v9sKV0tx1ci8yXjhXLOGmbvLTtCt7py2QGtlEdJrbmk/edit?usp=sharing)
 
-- ⚡ Fun fact **I am a foster parent**
+- ⚡  **I am a proud foster parent**
 
 
 <h3 align="left">Languages and Tools:</h3>
